@@ -79,8 +79,7 @@ BMI values are classified into different categories as per health standards:
 
 ## Screenshots
 
-![Screenshot Description]([https://your-image-url.com/screenshot.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgqqXrahkoxTFYwrXLFetc0QgtC4KgFN81xQ&s))
-
+![Screenshot Description](assets/screenshot.png)
 ## Technologies Used
 
 - **Flutter**: Front-end framework
